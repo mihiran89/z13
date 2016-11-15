@@ -1,0 +1,592 @@
+listening on :80
+
+a user connected: 228778582aba4d09e3e54003
+
+a user connected: 627177582abcdb0bdc051584
+
+User Reconnected: 1
+
+User Reconnected: 1
+
+user disconnected: 228778582aba4d09e3e54003
+
+a user connected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+User Reconnected: 1
+
+Last record insert id: 23
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+Inactive Delete: 1
+
+a user connected: 96339582ac02da3ab710838
+
+Last record insert id: 19
+
+Last record insert id: 24
+
+User Avatar Changed: 96339582ac02da3ab710838
+
+user disconnected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+a user connected: 96339582ac02da3ab710838
+
+User Reconnected: 1
+
+user disconnected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+a user connected: 96339582ac02da3ab710838
+
+User Reconnected: 1
+
+user disconnected: 96339582ac02da3ab710838
+
+a user connected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+User Reconnected: 1
+
+user disconnected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+a user connected: 96339582ac02da3ab710838
+
+User Reconnected: 1
+
+user disconnected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+a user connected: 96339582ac02da3ab710838
+
+User Reconnected: 1
+
+user disconnected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+a user connected: 96339582ac02da3ab710838
+
+User Reconnected: 1
+
+Last record insert id: 25
+
+Last record insert id: 26
+
+Inactive Delete: 0
+
+Last record insert id: 27
+
+Last record insert id: 28
+
+Last record insert id: 29
+
+Last record insert id: 30
+
+Last record insert id: 31
+
+Last record insert id: 32
+
+Last record insert id: 33
+
+Last record insert id: 34
+
+user disconnected: 96339582ac02da3ab710838
+
+User(s) Inactivated: 1
+
+User Name Changed: 627177582abcdb0bdc051584
+
+User Name Changed: 627177582abcdb0bdc051584
+
+Inactive Delete: 1
+
+user disconnected: 627177582abcdb0bdc051584
+
+User(s) Inactivated: 1
+
+Inactive Delete: 1
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+a user connected: 238917582ac859dc9d880280
+
+Last record insert id: 26
+
+Last record insert id: 35
+
+User Avatar Changed: 238917582ac859dc9d880280
+
+User Avatar Changed: 238917582ac859dc9d880280
+
+Last record insert id: 36
+
+User Avatar Changed: 238917582ac859dc9d880280
+
+User Name Changed: 238917582ac859dc9d880280
+
+Last record insert id: 37
+
+Inactive Delete: 0
+
+Last record insert id: 38
+
+Last record insert id: 39
+
+Last record insert id: 40
+
+Last record insert id: 41
+
+Last record insert id: 42
+
+Last record insert id: 43
+
+Last record insert id: 44
+
+user disconnected: 238917582ac859dc9d880280
+
+User(s) Inactivated: 1
+
+Inactive Delete: 1
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+a user connected: 228778582aba4d09e3e54003
+
+Last record insert id: 27
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+Inactive Delete: 1
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+a user connected: 228778582aba4d09e3e54003
+
+Last record insert id: 30
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+Last record insert id: 45
+
+User Avatar Changed: 228778582aba4d09e3e54003
+
+Last record insert id: 46
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+User Name Changed: 228778582aba4d09e3e54003
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+User Avatar Changed: 228778582aba4d09e3e54003
+
+Last record insert id: 47
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 228778582aba4d09e3e54003
+
+User Reconnected: 1
+
+user disconnected: 228778582aba4d09e3e54003
+
+User(s) Inactivated: 1
+
+a user connected: 816194582adfeae471567141
+
+Last record insert id: 36
+
+user disconnected: 816194582adfeae471567141
+
+User(s) Inactivated: 1
+
+a user connected: 816194582adfeae471567141
+
+User Reconnected: 1
+
+Inactive Delete: 1
+
+user disconnected: 816194582adfeae471567141
+
+User(s) Inactivated: 1
+
+a user connected: 816194582adfeae471567141
+
+User Reconnected: 1
+
+user disconnected: 816194582adfeae471567141
+
+User(s) Inactivated: 1
+
+Inactive Delete: 1
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+a user connected: 471120582b2e05101b360923
+
+Last record insert id: 39
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+User Avatar Changed: 471120582b2e05101b360923
+
+Last record insert id: 48
+
+Last record insert id: 49
+
+Inactive Delete: 0
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+Last record insert id: 50
+
+Inactive Delete: 0
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+Last record insert id: 51
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+Last record insert id: 52
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+Inactive Delete: 0
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+user disconnected: 471120582b2e05101b360923
+
+User(s) Inactivated: 1
+
+a user connected: 471120582b2e05101b360923
+
+User Reconnected: 1
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
+Inactive Delete: 0
+
